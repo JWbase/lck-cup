@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "2026 LCK CUP 팀 편성 시뮬레이터",
   description: "바론팀과 장로팀을 스네이크 드래프트로 편성하세요",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
