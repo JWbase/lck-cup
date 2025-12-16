@@ -40,7 +40,7 @@ export function StatsRanking({ refreshTrigger }: StatsRankingProps) {
     return (
       <div className="mt-8 p-4 bg-gray-800/50 rounded-xl text-center">
         <p className="text-gray-400 text-sm">
-          통계 기능을 사용하려면 Supabase 설정이 필요합니다.
+          통계 기능
         </p>
       </div>
     );
